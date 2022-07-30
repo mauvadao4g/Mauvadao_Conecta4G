@@ -3,5 +3,5 @@
 clear
 
 echo "Ola! está um belo dia hoje né"
-ehco "O que voce gostaria de fazer agora "
+echo "O que voce gostaria de fazer agora "
 echo ""
